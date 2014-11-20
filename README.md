@@ -1,4 +1,4 @@
 dview-sp1
 =========
 
-dview7 sp1.
+this project is dview7 sp1.

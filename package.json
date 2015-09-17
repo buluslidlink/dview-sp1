@@ -1,0 +1,18 @@
+{
+  "name": "dview-sp1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+  "mocha": "./node_modules/.bin/mocha -u bdd"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3"
+  },
+  "devDependencies": {
+    "mocha": "^2.3.2"
+  }
+}

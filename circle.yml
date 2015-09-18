@@ -2,7 +2,7 @@
 machine:
   # °²Ñb eb ÐèÒª python
   python:
-    version: 2.7
+    version: 3.5
   services:
     - docker
  # Add some environment variables

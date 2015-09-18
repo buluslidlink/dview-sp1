@@ -6,6 +6,4 @@ global:
   default_ec2_keyname: null
   default_platform: 64bit Amazon Linux 2015.03 v2.0.1 running Docker 1.6.2
   default_region: us-west-2
-  aws_access_key_id: AKIAIDQ6YGQKTOKIY2KA
-  aws_secret_access_key: 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
   sc: git

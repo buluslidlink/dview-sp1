@@ -1,0 +1,10 @@
+branch-defaults:
+  master:
+    environment: env-production
+global:
+  application_name: dview-sp1
+  default_ec2_keyname: null
+  default_platform: 64bit Amazon Linux 2015.03 v2.0.0 running Docker 1.6.2
+  default_region: us-west-2
+  profile: null
+  sc: git

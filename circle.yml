@@ -7,8 +7,8 @@ machine:
     - docker
  # Add some environment variables
   environment:
-   AWS_ACCESS_KEY_ID:AKIAIDQ6YGQKTOKIY2KA
-   AWS_SECRET_ACCESS_KEY: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
+   AWS_ACCESS_KEY_ID: AKIAIDQ6YGQKTOKIY2KA
+   AWS_SECRET_ACCESS_KEY: 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
 
 dependencies:
   pre:

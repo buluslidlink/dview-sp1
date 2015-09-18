@@ -1,5 +1,6 @@
 global:
   application_name: dview-sp1
+  envirment_name: env-production
   default_region: us-west-2
-  aws-access-id: AKIAJCR57245PZPHUBMA
-  aws-secret-key: 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
+  (aws-access-id): AKIAJCR57245PZPHUBMA
+  (aws-secret-key): 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

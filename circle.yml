@@ -5,13 +5,15 @@ machine:
     version: 2.7
   services:
     - docker
+ # Add some environment variables
+  environment:
+   AWS_ACCESS_KEY_ID:AKIAIDQ6YGQKTOKIY2KA
+   AWS_SECRET_ACCESS_KEY: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
 
 dependencies:
   pre:
     # °²Ñb eb
-    - export AWS_ACCESS_KEY_ID=AKIAIDQ6YGQKTOKIY2KA
-    - export AWS_SECRET_ACCESS_KEY=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
-    - sudo pip install awsebcli
+   - sudo pip install awsebcli
   override:
     - docker build -t dview-sp1 .
 

@@ -9,7 +9,6 @@ machine:
 dependencies:
   pre:
     # °²Ñb eb
-	
     - export AWS_ACCESS_KEY_ID=AKIAIDQ6YGQKTOKIY2KA
     - export AWS_SECRET_ACCESS_KEY=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
     - sudo pip install awsebcli
